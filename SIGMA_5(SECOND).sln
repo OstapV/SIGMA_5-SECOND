@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIGMA_5(SECOND)", "SIGMA_5(SECOND)\SIGMA_5(SECOND).csproj", "{22BA2789-BEFB-43D5-AA83-CF46CDA59AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22BA2789-BEFB-43D5-AA83-CF46CDA59AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BA2789-BEFB-43D5-AA83-CF46CDA59AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BA2789-BEFB-43D5-AA83-CF46CDA59AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BA2789-BEFB-43D5-AA83-CF46CDA59AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2620090D-52B0-406B-B94B-D02820A95FE3}
+	EndGlobalSection
+EndGlobal
